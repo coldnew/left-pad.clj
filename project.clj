@@ -1,6 +1,12 @@
 (defproject coldnew/left-pad "1.0.0"
   :description "Left pad strings"
   :url "https://github.com/coldnew/left-pad.clj"
+  :author "Yen-Chin, Lee"
+  :license {:name "MIT License"
+            :url "https://github.com/coldnew/left-pad.clj/blob/master/LICENSE"}
+
+  :signing {:gpg-key "C079AE25"}
+
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
