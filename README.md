@@ -1,9 +1,9 @@
-# left-pad
+# left-pad.clj
 [![Circle CI](https://circleci.com/gh/coldnew/left-pad.clj.svg?style=svg)](https://circleci.com/gh/coldnew/left-pad.clj)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/coldnew/left-pad.clj/master/LICENSE)
 
 String left pad.
-This library is clojure/clojurescript port of [left-pad](https://github.com/azer/left-pad) for javascript, it's not recommand to use this library actually :)
+This library is clojure/clojurescript port of [left-pad](https://github.com/azer/left-pad) for javascript, it's **NOT** recommand to use this library actually :)
 
 [![Clojars Project](http://clojars.org/coldnew/left-pad/latest-version.svg)](http://clojars.org/coldnew/left-pad)
 
