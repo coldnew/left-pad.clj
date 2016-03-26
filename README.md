@@ -6,7 +6,7 @@ String left pad.
 
 This library is clojure/clojurescript port of [left-pad](https://github.com/azer/left-pad), it's **NOT** recommand to use this library actually :).
 
-[![Clojars Project](http://clojars.org/coldnew/left-pad/latest-version.svg)](http://clojars.org/coldnew/left-pad)
+[![Clojars Project](https://clojars.org/coldnew/left-pad/latest-version.svg)](http://clojars.org/coldnew/left-pad)
 
 [Latest codox API docs](https://coldnew.github.io/left-pad.clj/).
 
