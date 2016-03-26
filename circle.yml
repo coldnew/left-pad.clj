@@ -35,5 +35,5 @@ deployment:
     branch: master
     commands:
       - ./lein codox
-      - sed -i 's%https://${GH_TOKEN}@${GH_REF}%git@github.com:coldnew/lfet-pad.clj.git%g' deploy.sh
+      - sed -i 's%https://${GH_TOKEN}@${GH_REF}%git@github.com:coldnew/left-pad.clj.git%g' deploy.sh
       - ./deploy.sh
