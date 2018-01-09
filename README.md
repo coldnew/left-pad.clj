@@ -1,6 +1,7 @@
 # left-pad.clj
 [![Circle CI](https://circleci.com/gh/coldnew/left-pad.clj.svg?style=svg)](https://circleci.com/gh/coldnew/left-pad.clj)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/coldnew/left-pad.clj/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcoldnew%2Fleft-pad.clj.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcoldnew%2Fleft-pad.clj?ref=badge_shield)
 
 String left pad.
 
@@ -53,3 +54,6 @@ $ lein cljsbuild test
 Copyright © 2016 Yen-Chin, Lee <<coldnew.tw@gmail.com>>
 
 Distributed under the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcoldnew%2Fleft-pad.clj.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcoldnew%2Fleft-pad.clj?ref=badge_large)
